@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Buscando uma oportunidade como Dev Júnior  
-🚀 Foco em Flutter, APIs REST, e front-end
+🚀 Foco em Flutter e APIs REST
 
 ### 📫 Contato:
 -  [LinkedIn](https://www.linkedin.com/in/guilherme-garcia-17677a282/)
